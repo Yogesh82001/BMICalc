@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BMICalc/static/css/main.e38d58e0.css",
+    "main.js": "/BMICalc/static/js/main.db2f802c.js",
+    "static/media/underweight.gif": "/BMICalc/static/media/underweight.674eb6e47e52d80d9e15.gif",
+    "static/media/healthyweight.gif": "/BMICalc/static/media/healthyweight.5ce0948668c0de08968a.gif",
+    "static/media/overweight.gif": "/BMICalc/static/media/overweight.5721ff6b7dfb3f36615d.gif",
+    "index.html": "/BMICalc/index.html",
+    "main.e38d58e0.css.map": "/BMICalc/static/css/main.e38d58e0.css.map",
+    "main.db2f802c.js.map": "/BMICalc/static/js/main.db2f802c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e38d58e0.css",
+    "static/js/main.db2f802c.js"
+  ]
+}
